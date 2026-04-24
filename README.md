@@ -172,4 +172,4 @@ MIT © [Edwin González](https://github.com/Edwing0634)
 **Edwin González** — Data Engineer & Python Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Edwing0634-black?logo=github)](https://github.com/Edwing0634)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/edwingonzalez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/edwin-gonzalez-LLM-RPA)
