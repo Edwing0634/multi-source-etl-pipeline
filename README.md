@@ -9,6 +9,14 @@
 
 ---
 
+## 🏭 Background
+
+Built from experience maintaining a **daily data integration layer at a multinational insurance company in Colombia**, where data arrives from legacy AS400 systems, third-party SMS/survey platforms via REST APIs, SFTP file drops, and internal SQL Server databases — all needing to land in a unified reporting schema before the business day starts.
+
+The 9-script cascade pattern, MERGE upsert logic, and isolated job scheduling were designed for exactly this kind of environment: heterogeneous sources, no tolerance for one broken feed taking down the rest, and a non-technical ops team that needs clear run logs to diagnose issues.
+
+---
+
 ## ✨ Features
 
 - **5 extractor types** — SFTP (paramiko), REST APIs (paginated + retry), AS400 via OPENQUERY linked server, local CSV/Excel files, and direct DB queries
