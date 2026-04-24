@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+
+# Data files (may contain real data)
+*.csv
+*.xlsx
+*.xls
+*.json
+data/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
